@@ -13,6 +13,6 @@ Take me to [pookie](#pookie)
 ### 
 
 
-#Theory-of-the-operating-systems
+[Theory of the operating systems](#Theory-of-the-operating-systems)
 
 get me back to that [top](#Linux-Course)
