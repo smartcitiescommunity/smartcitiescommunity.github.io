@@ -32,33 +32,32 @@ Intro
 | Manage file permissions and ownership | O | O | X | O | O |
 | Create and change hard and symbolic links | O | X | O | O | O |
 | Find system files and place files in the correct location | O | X | O | O | O |
-| Shells, Scripting and Data Management | O | O | O | O | O |
-| Customize and use the shell environment | O | O | O | O | O |
-| Customize or write simple scripts | O | O | O | O | O |
-| SQL data management | O | O | O | O | O |
-| User Interfaces and Desktops | O | O | O | O | O |
-| Install and configure X11 | O | O | O | O | O |
-| Setup a display manager | O | O | O | O | O |
-| Accessibility | O | O | O | O | O |
-| Administrative Tasks | O | O | O | O | O |
-| Manage user and group accounts and related system files | O | O | O | O | O |
-| Automate system administration tasks by scheduling jobs | O | O | O | O | O |
-| Localisation and internationalisation | O | O | O | O | O |
-| Essential System Services | O | O | O | O | O |
-| Maintain system time | O | O | O | O | O |
-| System logging | O | O | O | O | O |
-| Mail Transfer Agent (MTA) basics | O | O | O | O | O |
-| Manage printers and printing | O | O | O | O | O |
-| Networking Fundamentals | O | O | O | O | O |
-| Fundamentals of internet protocols | O | O | O | O | O |
-| Basic network configuration | O | O | O | O | O |
+| Shells, Scripting and Data Management | O | O | O | X | O |
+| Customize and use the shell environment | O | O | O | X | O |
+| Customize or write simple scripts | O | O | O | X | O |
+| SQL data management | O | X | O | O | O |
+| User Interfaces and Desktops | X | O | O | O | O |
+| Install and configure X11 | O | X | O | O | O |
+| Setup a display manager | X | O | O | O | O |
+| Accessibility | X | O | O | O | O |
+| Administrative Tasks | O | O | O | X | O |
+| Manage user and group accounts and related system files | O | O | O | O | X |
+| Automate system administration tasks by scheduling jobs | O | O | O | X | O |
+| Localisation and internationalisation | O | O | X | O | O |
+| Essential System Services | O | X | O | O | O |
+| Maintain system time | O | O | X| O | O |
+| System logging | O | O | X| O | O |
+| Mail Transfer Agent (MTA) basics | O | O | X| O | O |
+| Manage printers and printing | O | X| O | O | O |
+| Networking Fundamentals | O | O | O | X| O |
+| Fundamentals of internet protocols | O | O | O | X| O |
+| Basic network configuration | O | O | O | X| O |
 | Basic network troubleshooting | O | O | O | O | O |
-| Configure client side DNS | O | O | O | O | O |
-| Basic network configuration | O | O | O | O | O |
-| Security | O | O | O | O | O |
-| Perform security administration tasks | O | O | O | O | O |
-| Setup host security | O | O | O | O | O |
-| Securing data with encryption | O | O | O | O | O |
+| Configure client side DNS | O | X| O | O | O |
+| Security | O | O | O | X| O |
+| Perform security administration tasks | O | O | X| O | O |
+| Setup host security | O | O | X| O | O |
+| Securing data with encryption | O | O | X| O | O |
 
 
 # Index
