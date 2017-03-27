@@ -3,61 +3,63 @@
 Intro
 =====
 
-| Importance Weight | Level 1  | Level 2 | Level 3 | Level 4| Level 5 |
+| Importance Weight | Level 1 | Level 2 | Level 3 | Level 4| Level 5 |
 | :---------------: | :------: | :-----: | :-----: | :----: | :-----: |
-| Theory of the operating systems            | Cell 2   | Cell 3  | Cell 4  | Cell 5 | Cell 6  |
-| System Architecture            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Boot the system            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Change runlevels            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Linux Installation and Package Management           | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Design hard disk layout            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Install a boot manager           | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Manage shared libraries            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Use Debian package management           | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Use RPM and YUM package management            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| GNU and Unix Commands            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Process text streams using filters           | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Perform basic file management            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Use streams, pipes and redirects            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Create, monitor and kill processes            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Modify process execution priorities            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Search text files using regular expressions            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Perform basic file editing operations using vi            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Devices, Linux Filesystems, Filesystem Hierarchy Standard            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Create partitions and filesystems            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Maintain the integrity of filesystems            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Control mounting and unmounting of filesystems           | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Manage disk quotas           | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Manage file permissions and ownership           | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Create and change hard and symbolic links            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Find system files and place files in the correct location            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Shells, Scripting and Data Management            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Customize and use the shell environment            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Customize or write simple scripts            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| SQL data management            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| User Interfaces and Desktops            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Install and configure X11            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Setup a display manager            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Accessibility            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Administrative Tasks            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Manage user and group accounts and related system files            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Automate system administration tasks by scheduling jobs            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Localisation and internationalisation            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Essential System Services           | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Maintain system time            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| System logging            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Mail Transfer Agent (MTA) basics            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Manage printers and printing            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Networking Fundamentals            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Fundamentals of internet protocols            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Basic network configuration            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Basic network troubleshooting            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Configure client side DNS            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Basic network configuration            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Security            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Perform security administration tasks            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Setup host security            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
-| Securing data with encryption            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
+| Theory of the operating systems | X | O | O | O | O |
+| System Architecture | O | X | O | O | O |
+| Boot the system | O | O | X | O | O |
+| Change runlevels | O | O | X | O | O |
+| Linux Installation and Package Management | X  | O | O | O | O |
+| Design hard disk layout | O | X | O | O | O |
+| Install a boot manager | O | X | O | O | O |
+| Manage shared libraries | X  | O | O | O | O |
+| Use Debian package management | O | O | X | O | O |
+| Use RPM and YUM package management | O | O | X | O | O |
+| GNU and Unix Commands | O | O | X | O | O |
+| Work on the command line | O | O | O | X | O |
+| Process text streams using filters | O | O | X | O | O |
+| Perform basic file management | O | O | O | X | O |
+| Use streams, pipes and redirects | O | O | O | X | O |
+| Create, monitor and kill processes | O | O | O | X | O |
+| Modify process execution priorities | O | X | O | O | O |
+| Search text files using regular expressions | O | X | O | O | O |
+| Perform basic file editing operations using vi | O | O | X | O | O |
+| Devices, Linux Filesystems, Filesystem Hierarchy Standard | O | X | O | O | O |
+| Create partitions and filesystems | O | X | O | O | O |
+| Maintain the integrity of filesystems | O | X | O | O | O |
+| Control mounting and unmounting of filesystems | O | O | X | O | O |
+| Manage disk quotas | X  | O | O | O | O |
+| Manage file permissions and ownership | O | O | X | O | O |
+| Create and change hard and symbolic links | O | X | O | O | O |
+| Find system files and place files in the correct location | O | X | O | O | O |
+| Shells, Scripting and Data Management | O | O | O | O | O |
+| Customize and use the shell environment | O | O | O | O | O |
+| Customize or write simple scripts | O | O | O | O | O |
+| SQL data management | O | O | O | O | O |
+| User Interfaces and Desktops | O | O | O | O | O |
+| Install and configure X11 | O | O | O | O | O |
+| Setup a display manager | O | O | O | O | O |
+| Accessibility | O | O | O | O | O |
+| Administrative Tasks | O | O | O | O | O |
+| Manage user and group accounts and related system files | O | O | O | O | O |
+| Automate system administration tasks by scheduling jobs | O | O | O | O | O |
+| Localisation and internationalisation | O | O | O | O | O |
+| Essential System Services | O | O | O | O | O |
+| Maintain system time | O | O | O | O | O |
+| System logging | O | O | O | O | O |
+| Mail Transfer Agent (MTA) basics | O | O | O | O | O |
+| Manage printers and printing | O | O | O | O | O |
+| Networking Fundamentals | O | O | O | O | O |
+| Fundamentals of internet protocols | O | O | O | O | O |
+| Basic network configuration | O | O | O | O | O |
+| Basic network troubleshooting | O | O | O | O | O |
+| Configure client side DNS | O | O | O | O | O |
+| Basic network configuration | O | O | O | O | O |
+| Security | O | O | O | O | O |
+| Perform security administration tasks | O | O | O | O | O |
+| Setup host security | O | O | O | O | O |
+| Securing data with encryption | O | O | O | O | O |
+
 
 # Index
 
@@ -72,8 +74,10 @@ Intro
 ### Install a boot manager
 ### Manage shared libraries
 ### Use Debian package management
-### Use RPM and YUM package management
-### GNU and Unix Commands
+### Use RPM and YUM package management}
+
+# GNU and Unix Commands
+### Work on the command line
 ### Process text streams using filters
 ### Perform basic file management
 ### Use streams, pipes and redirects
