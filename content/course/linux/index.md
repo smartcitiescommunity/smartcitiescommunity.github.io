@@ -2,7 +2,11 @@
 
 Intro
 =====
-info....
+
+| Importance Weight | Level 1  | Level 2 | Level 3 | Level 4| Level 5 |
+| :---------------: | :------: | :-----: | :-----: | :----: | :-----: |
+| Cell 1            | Cell 2   | Cell 3  | Cell 4  | Cell 5 | Cell 6  |
+| Cell 7            | Cell 8   | Cell 9  | Cell 10 | Cell 11| Cell 12 |
 
 # Index
 
