@@ -39,7 +39,6 @@ N | Name | URL |
 
 Time of Lab:
 ============
-
  N | Step | Time |
  :--: | :--: | :--: |
  0 | Install OS | *1* `Min` **Aprox** |
@@ -64,6 +63,10 @@ Time of Lab:
  19 | Sofware | *1* `Min` **Aprox** |
  20 | Firewall | *1* `Min` **Aprox** |
  
- ~~~~
-This is a code block, fenced-style
+  N | Step | Time |
+ :--: | :--: | :--: |
+ 0 | Install OS | *1* `Min` **Aprox** |
+ >Template for documentation about it
+~~~~
+[root@localhost]#command --help
 ~~~~
