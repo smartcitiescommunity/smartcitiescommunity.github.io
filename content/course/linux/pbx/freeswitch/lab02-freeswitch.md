@@ -80,6 +80,8 @@ Time of Lab:
 ~~~~
 
 =====
+
+
   N | Step | Time |
  :--: | :--: | :--: |
  0 | Install OS | *1* `Min` **Aprox** |
@@ -97,6 +99,8 @@ Time of Lab:
 ~~~~
 
 =====
+
+
   N | Step | Time |
  :--: | :--: | :--: |
  0 | Install OS | *1* `Min` **Aprox** |
@@ -114,21 +118,5 @@ Time of Lab:
 ~~~~
 
 =====
-  N | Step | Time |
- :--: | :--: | :--: |
- 0 | Install OS | *1* `Min` **Aprox** |
- 
- OS | App | Option | Variable |
- :--: | :--: | :--: | :--: |
- SUSE | zypper | install | make |
- Debian | apt-get | install | make |
- Red Hat | yum | install | make |
- 
- >Template for documentation about it
- 
-~~~~
-[root@localhost]#command --help
-~~~~
 
-=====
 
