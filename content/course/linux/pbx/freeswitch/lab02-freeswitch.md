@@ -1,8 +1,3 @@
-.hi {
-  background: linear-gradient(225deg, lightpink, lightblue);
-  border: thick dotted purple;
-} 
-
 Lab Name:
 =========
 N | Name | Version | Release |
@@ -13,7 +8,7 @@ Difficulty level:
 =================
 Really? | Easy | Medium | Hard |
  :--: | :--: | :--: | :--: |
- 0 | 0 | 1 | 0 |
+ 0 | 0 | **X** | 0 |
  
 Knowledge & Skills required:
 ============================
