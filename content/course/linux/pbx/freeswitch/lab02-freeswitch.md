@@ -64,4 +64,6 @@ Time of Lab:
  19 | Sofware | *1* `Min` **Aprox** |
  20 | Firewall | *1* `Min` **Aprox** |
  
- 
+ ~~~~
+This is a code block, fenced-style
+~~~~
