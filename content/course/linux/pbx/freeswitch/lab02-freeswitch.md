@@ -2,7 +2,7 @@ Lab Name:
 =========
 N | Name | Version | Release |
  :--: | :--: | :--: | :--: |
- 02 | Name | 1 | 1 |
+ `02` | `Name` | `1` | `1` |
  
 Difficulty level:
 =================
@@ -14,7 +14,7 @@ Knowledge & Skills required:
 ============================
 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
  :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
- Commands and Shell | install Applications | Database setup | Server Setup | Linux Setup | Network Setup | Server Hardening | Software configuration |
+ `Commands and Shell` | `install Applications` | `Database setup` | `Server Setup` | `Linux Setup` | `Network Setup` | `Server Hardening` | `Software configuration` |
 
 Technologies involved:
 ======================
