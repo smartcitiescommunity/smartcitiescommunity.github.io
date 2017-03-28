@@ -3,6 +3,7 @@ Lab Name:
 Technologies involved:
 
 Time of Lab:
+============
 
  N | Step | Time |
  :--: | :--: | :--: |
