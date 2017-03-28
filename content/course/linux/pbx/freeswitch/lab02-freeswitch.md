@@ -1,11 +1,37 @@
 Lab Name:
+=========
+N | Name | Version | Release |
+ :--: | :--: | :--: | :--: |
+ 02 | Name | 1 | 1 |
+ 
+Difficulty level:
+=================
+Really? | Easy | Medium | Hard |
+ :--: | :--: | :--: | :--: |
+ 0 | 0 | 1 | 0 |
+ 
+Knowledge & Skills required:
+============================
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+ :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+ Commands and Shell | install Applications | Database setup | Server Setup | Linux Setup | Network Setup | Server Hardening | Software configuration |
 
 Technologies involved:
 ======================
+N | Name | URL |
+ :--: | :--: | :--: |
+ 0 | Tech 0 | [URL](https://www.google.com "Google's Homepage") |
+ 1 | Tech 1 | [URL](https://www.google.com "Google's Homepage") |
+ 2 | Tech 2 | [URL](https://www.google.com "Google's Homepage") |
+ 3 | Tech 3 | [URL](https://www.google.com "Google's Homepage") |
+ 4 | Tech 4 | [URL](https://www.google.com "Google's Homepage") |
+ 
+ Software Involved:
+ ==================
 
 N | Name | URL |
  :--: | :--: | :--: |
- 0 | Linux OS | [URL](https://www.google.com "Google's Homepage") |
+ 0 | Software0 | [URL](https://www.google.com "Google's Homepage") |
  1 | Software1 | [URL](https://www.google.com "Google's Homepage") |
  2 | Software2 | [URL](https://www.google.com "Google's Homepage") |
  3 | Software3 | [URL](https://www.google.com "Google's Homepage") |
@@ -38,11 +64,4 @@ Time of Lab:
  19 | Sofware | 1 Min Aprox |
  20 | Firewall | 1 Min Aprox |
  
-
-
-Software Involved:
-
-Difficulty level:
-
-Knowledge & Skills required:
-
+ 
