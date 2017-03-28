@@ -1,3 +1,8 @@
+.hi {
+  background: linear-gradient(225deg, lightpink, lightblue);
+  border: thick dotted purple;
+} 
+
 Lab Name:
 =========
 N | Name | Version | Release |
