@@ -147,3 +147,13 @@ Time of Lab:
 ----
 ----
 
+
+Other Resources:
+======================
+N | Name | URL |
+ :--: | :--: | :--: |
+ 0 | Resource 0 | [URL](https://www.google.com "Google's Homepage") |
+ 1 | Resource 1 | [URL](https://www.google.com "Google's Homepage") |
+ 2 | Resource 2 | [URL](https://www.google.com "Google's Homepage") |
+ 3 | Resource 3 | [URL](https://www.google.com "Google's Homepage") |
+ 4 | Resource 4 | [URL](https://www.google.com "Google's Homepage") |
