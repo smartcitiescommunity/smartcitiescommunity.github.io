@@ -1,8 +1,8 @@
 Lab Name:
 =========
-N | Name | Version | Release |
- :--: | :--: | :--: | :--: |
- `02` | `Name` | `1` | `1` |
+Type | N | Name | Version | Release |
+ :--: | :--: | :--: | :--: | :--: |
+ PBX | `02` | `Name` | `1` | `1` |
  
 Difficulty level:
 =================
