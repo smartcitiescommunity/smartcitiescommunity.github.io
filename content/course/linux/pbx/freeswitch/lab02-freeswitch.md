@@ -15,6 +15,12 @@ Knowledge & Skills required:
 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
  :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
  `Commands and Shell` | `install Applications` | `Database setup` | `Server Setup` | `Linux Setup` | `Network Setup` | `Server Hardening` | `Software configuration` |
+ 
+Learning Paths:
+============================
+Course 1 | Course 2 | Course 3 | Course 4 | Course 5 | Course 6 | Course 7 | Course 8 |
+ :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+ `[Linux](https://www.google.com "Google's Homepage")` | `[LPI Guide](https://www.google.com "Google's Homepage")` | `[Database](https://www.google.com "Google's Homepage")` | `[Server Hardening](https://www.google.com "Google's Homepage")` | `[Remote Access](https://www.google.com "Google's Homepage")` | `[Linux Desktop](https://www.google.com "Google's Homepage")` | `[Networking](https://www.google.com "Google's Homepage")` | `[Cybersecurity](https://www.google.com "Google's Homepage")` |
 
 Technologies involved:
 ======================
