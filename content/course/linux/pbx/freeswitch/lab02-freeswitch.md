@@ -2,7 +2,7 @@ Lab Name:
 =========
 Type | N | Name | Version | Release |
  :--: | :--: | :--: | :--: | :--: |
- PBX | `02` | `Name` | `1` | `1` |
+ `PBX` | `02` | `Name` | `1` | `1` |
  
 Difficulty level:
 =================
