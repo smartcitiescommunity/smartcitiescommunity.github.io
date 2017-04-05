@@ -162,3 +162,9 @@ N | Name | URL |
  2 | Resource 2 | [URL](https://www.google.com "Google's Homepage") |
  3 | Resource 3 | [URL](https://www.google.com "Google's Homepage") |
  4 | Resource 4 | [URL](https://www.google.com "Google's Homepage") |
+ 
+References:
+============================
+Last Name | Name | Year/Month/Day | Title | Institution | License | ISBN/DOI/Reg/SN | Source |
+ :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+ `Villa` | `Juan F.` | `2017/04/08` | `Template for Academic Labs` | `Smart Cities Community` | `Network Setup` | `Lab-Template-0001` | [URL](https://smartcitiescommunity.github.io "https://smartcitiescommunity.github.io") |
